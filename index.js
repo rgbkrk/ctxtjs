@@ -21,7 +21,7 @@ var dumpStats = function dumpStats() {
       var kv = v.split(":\t");
       if (kv[0] && kv[1]) {
       	fields[kv[0]] = kv[1].trim();
-  		}
+      }
     });
   
     console.log(fields);

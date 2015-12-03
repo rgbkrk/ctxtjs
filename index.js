@@ -28,6 +28,6 @@ var dumpStats = function dumpStats() {
   });
 }
 
-setInterval(dumpStats, 100);
+setInterval(dumpStats, 500);
 
 

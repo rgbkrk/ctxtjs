@@ -1,0 +1,21 @@
+{
+  "name": "ctxtjs",
+  "version": "1.0.0",
+  "description": "Checking up on context switches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgbkrk/ctxtjs.git"
+  },
+  "author": "Kyle Kelley <rgbkrk@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/rgbkrk/ctxtjs/issues"
+  },
+  "homepage": "https://github.com/rgbkrk/ctxtjs#readme",
+  "dependencies": {
+  }
+}
